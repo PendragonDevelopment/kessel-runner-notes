@@ -18,9 +18,10 @@
 - HTML was developed to structure and connect documents on the web
 - CSS was developed to style markup documents from various sources and with cascading rules
 ```css
-  p {
+p {
   color: black;
 }
 p.class {
   size: 14px;
-}```
+}
+```
