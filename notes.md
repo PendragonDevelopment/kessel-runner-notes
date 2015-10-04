@@ -21,7 +21,12 @@
 p {
   color: black;
 }
-p.class {
+p.big {
   size: 14px;
 }
+```
+
+```html
+<p>This is a paragraph.</p>
+<p class="big">This is a larger paragraph.</p>
 ```
