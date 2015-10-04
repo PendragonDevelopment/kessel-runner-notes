@@ -34,4 +34,7 @@ p.big {
 - HTML is made up of elements that describe the structure and content of a document (usually a web page)
 - `<p>`, `<a>`, `<ul>` are all examples of HTML elements/tags
 - Block level elements: used as wrappers to partition content that logically belongs together in a document
-  - `<header>`, `<section>`, `<footer>`, `<div>`
+  - `<header>`, `<section>`, `<footer>`, `<div>`, `<p>`
+- Inline elements describe the type of content that is wraps
+  - `<a>`, `<span>`, `<img>`
+- The "block-level" category roughly corresponds to the category of flow content in HTML5, while "inline" corresponds to phrasing content
