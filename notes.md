@@ -17,6 +17,12 @@
 - CSS developed by Håkon Wium Lie in 1994 (officially adopted in 1996)
 - HTML was developed to structure and connect documents on the web
 - CSS was developed to style markup documents from various sources and with cascading rules
+
+```html
+<p>This is a paragraph.</p>
+<p class="big">This is a larger paragraph.</p>
+```
+
 ```css
 p {
   color: black;
@@ -24,9 +30,4 @@ p {
 p.big {
   size: 14px;
 }
-```
-
-```html
-<p>This is a paragraph.</p>
-<p class="big">This is a larger paragraph.</p>
 ```
