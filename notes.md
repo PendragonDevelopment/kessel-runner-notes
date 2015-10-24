@@ -38,3 +38,10 @@ p.big {
 - Inline elements describe the type of content that is wraps
   - `<a>`, `<span>`, `<img>`
 - The "block-level" category roughly corresponds to the category of flow content in HTML5, while "inline" corresponds to phrasing content
+
+Links:
+
+- http://websitesetup.org/html5-cheat-sheet/
+- http://dontfeartheinternet.com/
+- https://developer.mozilla.org/en-US/docs/Web
+- http://css-tricks.com
